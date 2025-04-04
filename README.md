@@ -1,2 +1,2 @@
-# jongmin.lee.github.io
+# jongminlee.github.io
 JML personal webpage
